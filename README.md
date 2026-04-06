@@ -2,6 +2,10 @@
 
 A simple Game Boy emulator written in Python with Pygame for graphics display.
 
+## About
+
+This was a challenge by @PranavBailoor to create a Game Boy emulator in a single class period. The emulator is not fully complete and has bugs and missing features.
+
 ## Features
 
 - **CPU**: Sharp LR35902-compatible CPU implementation
